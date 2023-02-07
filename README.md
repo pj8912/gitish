@@ -1,4 +1,4 @@
-# testgit
+# gitish
 repo  to test bash script
 
 ## Linux
