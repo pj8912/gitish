@@ -20,4 +20,4 @@ This is how I made my commit to this repo(excluding readme).
 - On terminal:
 
 - `gitish`
-- `. , intial commit`
+- `. , initial commit`
