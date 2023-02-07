@@ -1,6 +1,5 @@
 # gitish
-repo  to test bash script
-
+bash script to automate three git commands according to this tweet : https://twitter.com/adamsycodes/status/1622217516419551233 
 ## Linux
 - Make the file executable by running the following command:
 `chmod +x gitish.sh`
