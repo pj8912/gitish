@@ -15,3 +15,9 @@ repo  to test bash script
 This is how I made my commit to this repo(excluding readme).
 
 ![Screenshot from 2023-02-07 09-55-24](https://user-images.githubusercontent.com/59218902/217148416-515f13ed-1c32-4a01-a508-a5784718bbb8.png)
+
+
+- On terminal:
+
+- `gitish`
+- `. , intial commit`
