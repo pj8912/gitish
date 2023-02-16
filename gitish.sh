@@ -1,8 +1,10 @@
 #!/bin/sh
 
-echo "this automates git add, commit, push in a single line"
-echo "Enter add type , commit message" 
+echo "  ___  _  _        _    "
+echo " / __|(_)| |_  ___| |_  "
+echo "| (_ || ||  _|(_-/|   \ "
+echo " \___||_| \__|/__/|_||_|"
 
-git add --all
-git commit -m $@
-#git push
+git add .
+git commit -m "$@"
+git push
