@@ -37,4 +37,6 @@ $ ./gitish your commit message
 
 ## Contributers
 
+- [jp](https://github.com/pj8912)
 - [Aadv1k](https://github.com/aadv1k)
+
