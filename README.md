@@ -21,22 +21,31 @@ $ ./gitish.sh this is my commit message
 ### Linux
 
 - Make the file executable by running the following command:
-`chmod +x gitish.sh`
+
+```
+chmod +x gitish.sh
+```
 
 - Move the file to a directory in your PATH, such as /usr/local/bin:
-`sudo mv gitish.sh /usr/local/bin/gitish`
+
+```
+sudo mv gitish.sh /usr/local/bin/gitish
+```
 
 - Now, you can run this custom Git command by simply typing `gitish` in the terminal.
 
 ### Windows
 
-- `./gitish.bat`
+- 
+```
+./gitish.bat
+```
 
 
 ## Usage
 
 ```shell
-$ ./gitish your commit message
+$ gitish your commit message
 ```
 
 ## Contributers
