@@ -1,6 +1,10 @@
 # gitish
 
-bash script to automate three git commands according to this tweet : https://twitter.com/adamsycodes/status/1622217516419551233 
+
+![bash-github](https://user-images.githubusercontent.com/59218902/220018242-93ca6958-1dad-495a-9f9d-b2c1c05762b7.png)
+
+
+bash script to automate three git commands according to this tweet : [Tweet](https://twitter.com/adamsycodes/status/1622217516419551233)
 
 ## Example
 
